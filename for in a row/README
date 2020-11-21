@@ -1,0 +1,13 @@
+shmuel polonsky
+
+==================
+=  Description:  =
+==================
+
+the game consists on the following classes:
+    a game and an AI class.
+    a screen class, which receives a game object and runs a game on it in GUI.
+
+the screen object delivers moves to the game object according to user's input,
+or if necessary according to ai output, which is created by it if user chooses
+an ai game.
